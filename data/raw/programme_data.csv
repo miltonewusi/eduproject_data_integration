@@ -1,0 +1,51 @@
+school_name,district,year,children_reached,mothers_trained,play_sessions
+Bright Future Primary,Northern East,2024,245,38,16
+Hope Academy,Northern East,2024,198,31,14
+Unity Primary,Northern West,2024,276,42,20
+Victory School,Northern West,2024,215,35,15
+Rising Star Academy,Central East,2024,301,50,21
+Green Valley School,Central East,2024,188,28,12
+Community Basic School,Central West,2024,255,40,18
+Sunshine Academy,Central West,2024,234,37,17
+Future Leaders School,Coastal East,2024,290,45,22
+Harmony School,Coastal East,2024,205,32,14
+Learning Tree Primary,Coastal West,2024,265,41,19
+Wisdom Academy,Coastal West,2024,220,34,15
+Excel Primary School,Highland North,2024,310,48,23
+Star of Hope School,Highland North,2024,198,30,13
+Unity of Purpose School,Highland South,2024,250,38,18
+Vision Academy,Highland South,2024,282,44,21
+New Generation School,River Basin,2024,238,36,16
+Apex Academy,River Basin,2024,310,49,24
+Smart Kids School,Metropolitan,2024,345,55,26
+Great Minds Academy,Metropolitan,2024,298,47,22
+School 021,Northern East,2024,221,33,15
+School 022,Northern East,2024,246,38,18
+School 023,Northern West,2024,271,42,19
+School 024,Northern West,2024,214,34,15
+School 025,Central East,2024,323,51,23
+School 026,Central East,2024,185,27,12
+School 027,Central West,2024,257,41,18
+School 028,Central West,2024,245,39,17
+School 029,Coastal East,2024,289,46,21
+School 030,Coastal East,2024,207,33,14
+School 031,Coastal West,2024,260,40,18
+School 032,Coastal West,2024,225,35,16
+School 033,Highland North,2024,318,50,24
+School 034,Highland North,2024,192,29,13
+School 035,Highland South,2024,248,38,17
+School 036,Highland South,2024,280,43,20
+School 037,River Basin,2024,232,35,16
+School 038,River Basin,2024,325,52,24
+School 039,Metropolitan,2024,360,58,27
+School 040,Metropolitan,2024,301,48,23
+School 041,Northern East,2024,224,34,15
+School 042,Northern East,2024,243,37,17
+School 043,Northern West,2024,278,43,20
+School 044,Northern West,2024,208,32,14
+School 045,Central East,2024,315,49,22
+School 046,Central East,2024,194,29,13
+School 047,Central West,2024,259,40,18
+School 048,Central West,2024,241,37,17
+School 049,Coastal East,2024,293,46,22
+School 050,Metropolitan,2024,355,57,27
